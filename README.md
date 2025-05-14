@@ -4,7 +4,9 @@ If you still want to use Win11, go ahead and be my guest. Though I recommend usi
 1. It does not contain built-in boot malware and spyware
 2. It does not contain built-in ads
 
-Or you can should simply stay on Win10. Even Win10 is better than Win11. Nice try ruining Windows, Microsoft. Consequentially, you will get reduced customers.
+Or you can should simply stay on Win10. Even Win10 is better than Win11.
+
+Nice try ruining Windows, Microsoft. Consequentially, you will get reduced customers.
 
 # BypassReq.bat
 A batch script to get rid of Microsoft's installation requirements
